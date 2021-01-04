@@ -1,0 +1,237 @@
+[
+	{
+		"username": "authornew",
+		"role": "author",
+		"action": "log in successfull",
+		"sessionId": 9,
+		"timeStamp": "Mon Oct 26 2020 20:28:44 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "authornew",
+		"role": "author",
+		"action": "viewing stories",
+		" sessionId": "9",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Mon Oct 26 2020 20:28:44 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "authornew",
+		"role": "author",
+		"action": "adding new story successful",
+		" sessionId": "9",
+		"timeStamp": "Mon Oct 26 2020 20:29:05 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "authornew",
+		"role": "author",
+		"action": "viewing stories",
+		" sessionId": "9",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Mon Oct 26 2020 20:29:05 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "authornew",
+		"role": "author",
+		"action": "viewing stories",
+		" sessionId": "9",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Mon Oct 26 2020 20:29:05 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "authornew",
+		"role": "author",
+		"action": "viewing individual stories",
+		" sessionId": "9",
+		"timeStamp": "Mon Oct 26 2020 20:29:09 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "authornew",
+		"role": "author",
+		"sessionId": "9",
+		"action": "User Logged out",
+		"timeStamp": "Mon Oct 26 2020 20:29:12 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "log in successfull",
+		"sessionId": 6,
+		"timeStamp": "Mon Oct 26 2020 20:29:20 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "log in successfull",
+		"sessionId": 6,
+		"timeStamp": "Mon Oct 26 2020 20:29:20 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing stories",
+		"sessionId": "6",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Mon Oct 26 2020 20:29:20 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing individual stories",
+		" sessionId": "6",
+		"timeStamp": "Mon Oct 26 2020 20:29:24 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"sessionId": "6",
+		"action": "User Logged out",
+		"timeStamp": "Mon Oct 26 2020 20:29:28 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"sessionId": "6",
+		"action": "User Logged out",
+		"timeStamp": "Mon Oct 26 2020 20:29:28 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "log in failed: username or password empty",
+		"timeStamp": "Mon Oct 26 2020 20:43:17 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "log in successfull",
+		"sessionId": 5,
+		"timeStamp": "Mon Oct 26 2020 20:43:21 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing stories",
+		"sessionId": "5",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Mon Oct 26 2020 20:43:21 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing stories",
+		"sessionId": "5",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Mon Oct 26 2020 20:43:21 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"sessionId": "5",
+		"action": "User Logged out",
+		"timeStamp": "Tue Oct 27 2020 09:27:02 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "log in successfull",
+		"sessionId": 1,
+		"timeStamp": "Tue Oct 27 2020 09:27:06 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing stories",
+		"sessionId": "1",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Tue Oct 27 2020 09:27:06 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing stories",
+		"sessionId": "1",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Tue Oct 27 2020 09:27:06 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"sessionId": "1",
+		"action": "User Logged out",
+		"timeStamp": "Tue Oct 27 2020 09:27:09 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "author",
+		"role": "author",
+		"action": "log in successfull",
+		"sessionId": 5,
+		"timeStamp": "Tue Oct 27 2020 09:27:23 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "author",
+		"role": "author",
+		"action": "viewing stories",
+		" sessionId": "5",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Tue Oct 27 2020 09:27:23 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "author",
+		"role": "author",
+		"action": "viewing stories",
+		" sessionId": "5",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Tue Oct 27 2020 09:27:23 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "author",
+		"role": "author",
+		"action": "adding new story successful",
+		" sessionId": "5",
+		"timeStamp": "Tue Oct 27 2020 09:27:45 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "author",
+		"role": "author",
+		"action": "viewing stories",
+		" sessionId": "5",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Tue Oct 27 2020 09:27:45 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "author",
+		"role": "author",
+		"sessionId": "5",
+		"action": "User Logged out",
+		"timeStamp": "Tue Oct 27 2020 09:27:50 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "author",
+		"role": "author",
+		"sessionId": "5",
+		"action": "User Logged out",
+		"timeStamp": "Tue Oct 27 2020 09:27:50 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "log in successfull",
+		"sessionId": 2,
+		"timeStamp": "Tue Oct 27 2020 09:27:59 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing stories",
+		"sessionId": "2",
+		"ClientIP": "localhost:3001",
+		"timeStamp": "Tue Oct 27 2020 09:27:59 GMT-0700 (Mountain Standard Time)"
+	},
+	{
+		"username": "guest",
+		"role": "guest",
+		"action": "viewing individual stories",
+		" sessionId": "2",
+		"timeStamp": "Tue Oct 27 2020 09:28:01 GMT-0700 (Mountain Standard Time)"
+	}
+]

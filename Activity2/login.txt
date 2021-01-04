@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<title>Login Page</title>
+</head>
+<body>
+<form action="/login" method="POST">
+<label for="fname">User Name:</label><br>
+<input type="text" id="usernameTxt" name="usernameTxt" placeholder="Enter Your User Name"><br>
+<label for="lname">Password:</label><br>
+<input type="text" id="passwordTxt" name="passwordTxt" placeholder="Enter Your Password"><br><br>
+<p>Please select your Role:</p>
+<input type="radio" id="guestRb" name="roleRb" value="guest" checked>
+<label for="guest">Guest</label><br>
+<input type="radio" id="authorRb" name="roleRb" value="author">
+<label for="author">Author</label><br>
+<input type="radio" id="subscriberRb" name="roleRb" value="subscriber">
+<label for="subscriber">Subscriber</label>
+<input type="submit" value="Submit"></form></body></html>
